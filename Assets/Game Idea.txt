@@ -1,0 +1,81 @@
+> Game Idea:
+	A stickman navigating through a procedurally generated 	dungeon made of rooms, as he progress things gets harder 	untill the final boss in the last room.
+
+> Mechanis:
+	- Shooting.
+	- Trible Jump.
+	- Grappling Gun.
+	- Pickups.
+	- Power-ups: The player can find power-ups that increase 				their health, damage, or movement speed.
+	- Traps: Some rooms can have traps that the player must 					avoid, such as spikes or arrows.
+	- Shop: Occasionally, the player can enter a room with a shop 		where they can buy upgrades or weapons.
+	- Environmental Hazards: Rooms can have environmental hazards 		that the player must navigate, such as lava or acid.
+
+> Room Ideas:
+		- Once the player is in the room will spawn a simple map.
+		- The room will contain a box which contains the key the 
+				player need (some indicator in the box to show it is 					disabled).
+		- The player will have to do different tasks to activate 					the cube.
+
+
+> Tasks Ideas:
+	- Defeating a number of enemies.
+	- Solve a puzzle.
+	- Kill a boss.
+	- push a button/switch.
+	- Escort mission: The player must protect an NPC or object as 		they navigate through a dangerous area.
+	- Survival challenge: The player must survive for a set 					amount of time while waves of enemies attack them.
+	- Race challenge: The player must navigate through an 						obstacle course and reach the end before time runs out.
+	-	Stealth challenge: The player must avoid enemies and 					security measures in order to reach a goal without being 			detected.
+	- Puzzle challenge: The player must solve a complex puzzle 			in order to unlock a door or access a key item.
+	- Defense challenge: The player must defend a specific 					location or object from waves of enemies.
+	- Collection challenge: The player must collect a specific 			number of items scattered throughout the room before time 			runs out.
+	- Exploration challenge: The player must explore a large area 		and find a specific item or location.
+	- Platforming challenge: The player must navigate through a 			dangerous area filled with traps and obstacles.
+	- Parkour challenge: The player must navigate through a 					complex series of obstacles using wall jumping, sliding, 			and other parkour techniques.
+
+
+> Puzzle Ideas:
+	- Tile-based puzzle where the player must match colors or 				symbols.
+	- Hidden object puzzle where the player must find and collect 		hidden objects in the room.
+	- Physics-based puzzle where the player must use objects in 			the room to trigger switches or open doors.
+	- Maze puzzle where the player must navigate a maze and reach 		the exit.
+	- Pattern puzzle where the player must replicate a sequence 			of colors or symbols.
+	- Combination lock puzzle where the player must enter a code 			using clues found in the room.
+
+
+> Button / Switch Ideas:
+	- Pressure plate that triggers a door or trap.
+	- Levers that must be pulled in a specific order to open a 			door.
+	- Buttons that must be pressed simultaneously to activate a 			device.
+	- Multiple switches that must be activated in a specific 				sequence to open a door.
+	- Switches that must be pressed in a specific pattern to 				unlock a door.
+
+
+
+> Boss Ideas:
+	- Giant spider that shoots webs and spawns smaller spiders.
+	- Dragon that breathes fire and flies around the room.
+	- Necromancer that summons undead minions to fight the 					player.
+	- Giant golem that can only be damaged by shooting specific 			weak points.
+	- Demon that teleports around the room and shoots fireballs.
+
+
+
+> Enemy Ideas:
+	- Skeleton warrior that charges at the player with a sword.
+	- Goblin archer that shoots arrows at the player.
+	- Ghost that phases through walls and attacks the player.
+	- Slime that splits into smaller slimes when attacked.
+	- Troll that throws boulders at the player.
+	- Vampire that drains the player's health on contact.
+
+
+
+> Pickups:
+	- Health packs that restore the player's health.
+	- Ammo packs that refill the player's ammo.
+	- Shields that provide temporary invincibility.
+	- Speed boosts that increase the player's movement speed.
+	- Damage boosts that increase the player's damage.
+	- Grappling gun upgrades that allow the player to reach 					further or swing faster.

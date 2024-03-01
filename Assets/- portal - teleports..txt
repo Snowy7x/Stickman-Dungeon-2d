@@ -1,0 +1,9 @@
+- portal - teleports.
+- enemies trying to kill player and destroy portals.
+- player planting portals and restoring the color. [Done]
+- player can kill enemies with laser guns. [...]
+- player have a companion(pet) to help him and can rule him around.
+- player can save humans and build them bases.
+- player attack enemy bases. (spawn points).
+
+

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d9e053c6f2e4ffa93fd7feb59895551, type: 3}
+  m_Name: Easy Enemy Spawner
+  m_EditorClassIdentifier: 
+  challengeName: EnemySpawner
+  challengeDescription: Enemy waves will spawn every amount of time, so be ready!
+  challengeDifficulty: 0
+  challengeReward: 100
+  challengeTime: 60
+  maxScore: 100
+  currentScore: 0
+  flyingEnemies:
+  - {fileID: 7306914354990010207, guid: eaec53bd00631d5409b10b39f1eef18d, type: 3}
+  groundEnemies: []
+  waveCountMax: 5
+  waveTimeMax: 30
